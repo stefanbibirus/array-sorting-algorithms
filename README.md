@@ -1,1 +1,1 @@
-Implemented 3 sorting algorithms
+# Sorting Algorithm for Integrer Arrays
