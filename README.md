@@ -1,1 +1,1 @@
-# Sorting algorithms
+Implemented 3 sorting algorithms
